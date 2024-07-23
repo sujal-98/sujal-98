@@ -1,7 +1,6 @@
 # Hi there, I'm Sujal Gupta! 👋
 
 ![Profile views](https://gpvc.arturio.dev/sujal-98) 
-!(https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 ## 🚀 About Me
 
@@ -51,6 +50,8 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 ## ⚡ Random Fact
 
 When I'm not coding, you can find me stargazing or travelling 
+![Stargazing](https://media.giphy.com/media/3o6ozpMJ7m7EZnrkGI/giphy.gif)
+![Traveling](https://media.giphy.com/media/l3vR9OvhE8Rvi5Aq8/giphy.gif)
 
 ---
 
