@@ -22,6 +22,10 @@ I'm a passionate developer with experience in building interactive and dynamic w
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 
 ## 🌟 Projects
