@@ -1,6 +1,8 @@
 # Hi there, I'm Sujal Gupta! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sujal-98&color=brightgreen)
+
+![greetings](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=790b7611ssa0zanw2eoxjzuq52j47dh0nzv0pkesvkodqfq6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ## 🚀 About Me
 
