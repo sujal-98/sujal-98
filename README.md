@@ -59,8 +59,6 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 When I'm not coding, you can find me stargazing or travelling.
 
-![Stargazing]((https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?cid=790b7611llz0mm1han1iv5ocfptcprxpyzmswjcyjjkz3odv&ep=v1_gifs_search&rid=giphy.gif&ct=g))
-
 ---
 
 ⭐️ From [Sujal Gupta](https://github.com/sujal-98)
