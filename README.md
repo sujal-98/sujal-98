@@ -49,6 +49,8 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 ## 📈 GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=sujal-98&color=brightgreen)
+
 ![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal-98&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
