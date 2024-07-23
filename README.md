@@ -53,8 +53,8 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 When I'm not coding, you can find me stargazing or travelling.
 
-![Stargazing](https://media.giphy.com/media/5GoVLqeAOo6PK/200.gif)
-![Traveling](https://media.giphy.com/media/3ohs4FOkJUC2CXZ7sU/200.gif)
+![Stargazing](https://media.giphy.com/media/3oKIPkfZ6XGA0T1mhy/giphy.gif?cid=790b76112sspi9euti6ildyiahu8xjjq724ritw942yg92p8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Traveling](https://media.giphy.com/media/3o6YfXCRvjzATblkJy/giphy.gif?cid=790b7611ks9nhciqklfczuemxwbevxeiaq9yccfs3473s8s8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
