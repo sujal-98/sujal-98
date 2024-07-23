@@ -1,5 +1,4 @@
 # Hi there, I'm Sujal Gupta! 👋
-![Greetings](https://media.giphy.com/media/3oKIPkfZ6XGA0T1mhy/giphy.gif?cid=790b76112sspi9euti6ildyiahu8xjjq724ritw942yg92p8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ![Profile views](https://komarev.com/ghpvc/?username=sujal-98&color=brightgreen)
 
@@ -12,7 +11,10 @@ I'm a passionate developer with experience in building interactive and dynamic w
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
 
+
 ![coding](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611pg8jwo23r3s0sh3f2625b2xyuakpp3kczysveuxw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 
 ## 🛠️ Skills
 
@@ -57,7 +59,7 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 When I'm not coding, you can find me stargazing or travelling.
 
-![Stargazing]([https://media.giphy.com/media/3oKIPkfZ6XGA0T1mhy/giphy.gif?cid=790b76112sspi9euti6ildyiahu8xjjq724ritw942yg92p8&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?cid=790b7611llz0mm1han1iv5ocfptcprxpyzmswjcyjjkz3odv&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Stargazing]((https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?cid=790b7611llz0mm1han1iv5ocfptcprxpyzmswjcyjjkz3odv&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 ---
 
