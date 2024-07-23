@@ -6,7 +6,7 @@
 
 I'm a passionate developer with experience in building interactive and dynamic web applications. I specialize in creating user-friendly interfaces and enjoy working on a variety of projects that challenge my skills and creativity.
 
-- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and a **Multiplayer Snake Game**.
+- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and a **Real Time Dashboards**.
 - 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps** and **Cloud Technologies**.
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
