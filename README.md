@@ -1,13 +1,13 @@
 # Hi there, I'm Sujal Gupta! 👋
 
-![Profile views](https://gpvc.arturio.dev/sujal-98) 
+![Profile views](https://komarev.com/ghpvc/?username=sujal-98&color=brightgreen)
 
 ## 🚀 About Me
 
 I'm a passionate developer with experience in building interactive and dynamic web applications. I specialize in creating user-friendly interfaces and enjoy working on a variety of projects that challenge my skills and creativity.
 
 - 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and a **Multiplayer Snake Game**.
-- 💬 Ask me about **Frontend Development**, **Backend Development**, **Devops** and **Cloud Technologies**.
+- 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps** and **Cloud Technologies**.
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
 ## 🛠️ Skills
@@ -18,8 +18,6 @@ I'm a passionate developer with experience in building interactive and dynamic w
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
@@ -43,16 +41,17 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)]((https://www.linkedin.com/in/sujal-gupta-117154247/))&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujal-gupta-117154247/)&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://x.com/sujalgupta1412)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](sujalgp2003@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:sujalgp2003@gmail.com)&nbsp;
 
 ## ⚡ Random Fact
 
-When I'm not coding, you can find me stargazing or travelling 
-![Stargazing](https://media.giphy.com/media/3o6ozpMJ7m7EZnrkGI/giphy.gif)
-![Traveling](https://media.giphy.com/media/l3vR9OvhE8Rvi5Aq8/giphy.gif)
+When I'm not coding, you can find me stargazing or travelling.
+
+![Stargazing](https://media.giphy.com/media/l41lISBV7o7Qp2AkA/giphy.gif)
+![Traveling](https://media.giphy.com/media/3ohs4FOkJUC2CXZ7sU/giphy.gif)
 
 ---
 
-⭐️ From [Sujal Gupta](https://github.com/SujalGupta)
+⭐️ From [Sujal Gupta](https://github.com/sujal-98)
