@@ -6,8 +6,8 @@
 
 I'm a passionate developer with experience in building interactive and dynamic web applications. I specialize in creating user-friendly interfaces and enjoy working on a variety of projects that challenge my skills and creativity.
 
-- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and a **Real Time Dashboards**.
-- 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps** and **Cloud Technologies**.
+- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and **Real Time Dashboards**.
+- 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps**, and **Cloud Technologies**.
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
 ## 🛠️ Skills
@@ -53,8 +53,8 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 When I'm not coding, you can find me stargazing or travelling.
 
-![Stargazing](https://media.giphy.com/media/l41lISBV7o7Qp2AkA/giphy.gif)
-![Traveling](https://media.giphy.com/media/3ohs4FOkJUC2CXZ7sU/giphy.gif)
+![Stargazing](https://img.shields.io/badge/-Stargazing-05122A?style=flat&logo=astronaut)&nbsp;
+![Traveling](https://img.shields.io/badge/-Traveling-05122A?style=flat&logo=airplane)&nbsp;
 
 ---
 
