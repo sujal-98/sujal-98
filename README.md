@@ -1,6 +1,7 @@
 # Hi there, I'm Sujal Gupta! 👋
 
-![Profile views](https://gpvc.arturio.dev/SujalGupta) 
+![Profile views](https://gpvc.arturio.dev/sujal-98) 
+!(https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 ## 🚀 About Me
 
