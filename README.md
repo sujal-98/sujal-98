@@ -38,7 +38,7 @@ A platform where users can stream and join live video sessions. Utilizes React, 
 ### [🏠 Real Estate Website](https://github.com/sujal-98/realestate)
 A comprehensive real estate platform for listing and browsing properties. Built with React and Node.js.
 
-### [🏦 Banking Platform](https://github.com/sujal-98/banking-platform)
+### [🏦 Banking Platform](https://github.com/sujal-98/banking)
 A modern banking platform for managing accounts, transactions, and more. Developed using Next.js, Plaid, Dwolla, Appwrite, ShadCN, Chart.js
 
 ### [🐍 Multiplayer Snake Game](https://github.com/sujal-98/snake-online)
@@ -52,7 +52,7 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-98&layout=compact&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sujal-98&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sujal-98&theme=radical)
 
 ## 🔗 Connect with Me
 
