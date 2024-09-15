@@ -1,22 +1,16 @@
 # Hi there, I'm Sujal Gupta! 👋
 
-
 ![greetings](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif?cid=790b7611ssa0zanw2eoxjzuq52j47dh0nzv0pkesvkodqfq6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
 
 ## 🚀 About Me
 
 I'm a passionate developer with experience in building interactive and dynamic web applications. I specialize in creating user-friendly interfaces and enjoy working on a variety of projects that challenge my skills and creativity.
 
-- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, and **Real Time Dashboards**.
+- 🌱 I’m currently working on **Video Streaming**, **Real Estate Websites**, **Real Time Dashboards**, and a **Banking Platform**.
 - 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps**, and **Cloud Technologies**.
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
-
-
 ![coding](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611pg8jwo23r3s0sh3f2625b2xyuakpp3kczysveuxw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
 
 ## 🛠️ Skills
 
@@ -44,6 +38,9 @@ A platform where users can stream and join live video sessions. Utilizes React, 
 ### [🏠 Real Estate Website](https://github.com/sujal-98/realestate)
 A comprehensive real estate platform for listing and browsing properties. Built with React and Node.js.
 
+### [🏦 Banking Platform](https://github.com/sujal-98/banking-platform)
+A modern banking platform for managing accounts, transactions, and more. Developed using Next.js, Plaid, Dwolla, Appwrite, ShadCN, Chart.js
+
 ### [🐍 Multiplayer Snake Game](https://github.com/sujal-98/snake-online)
 An exciting multiplayer version of the classic Snake game. Developed with HTML, CSS, and JavaScript.
 
@@ -52,6 +49,10 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 ![Profile views](https://komarev.com/ghpvc/?username=sujal-98&color=brightgreen)
 
 ![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujal-98&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-98&layout=compact&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sujal-98&theme=radical)
 
 ## 🔗 Connect with Me
 
