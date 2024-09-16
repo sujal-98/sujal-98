@@ -52,6 +52,8 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-98&layout=compact&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sujal-98&theme=radical)](https://git.io/streak-stats)
+
 
 ## 🔗 Connect with Me
 
