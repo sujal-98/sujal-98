@@ -54,6 +54,7 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sujal-98&theme=radical)](https://git.io/streak-stats)
 
+<a href="https://app.daily.dev/sujal98"><img src="https://api.daily.dev/devcards/your-unique-id.svg" width="400" alt="Sujal Gupta's Dev Card"/></a>
 
 ## 🔗 Connect with Me
 
