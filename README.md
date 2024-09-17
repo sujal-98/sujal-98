@@ -10,7 +10,6 @@ I'm a passionate developer with experience in building interactive and dynamic w
 - 💬 Ask me about **Frontend Development**, **Backend Development**, **DevOps**, and **Cloud Technologies**.
 - 📫 How to reach me: **[sujalgp2003@gmail.com](mailto:sujalgp2003@gmail.com)**
 
-![coding](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=790b7611pg8jwo23r3s0sh3f2625b2xyuakpp3kczysveuxw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 🛠️ Skills
 
