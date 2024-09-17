@@ -54,11 +54,11 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sujal-98&theme=radical)](https://git.io/streak-stats)
 
 [![Sujal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![snake gif](https://github.com/sujal-98/sujal-98/blob/output/github-contribution-grid-snake.gif)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sujal-98&theme=radical)
 
-![Sujal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sujal-98&theme=radical)
 
 
 
