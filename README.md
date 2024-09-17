@@ -55,8 +55,6 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 [![Sujal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujal-98&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/sujal-98/sujal-98/blob/output/github-contribution-grid-snake.gif)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=sujal-98&theme=radical)
 
 
