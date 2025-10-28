@@ -95,7 +95,7 @@ An exciting multiplayer version of the classic Snake game. Developed with HTML, 
 
 ## ⚡ Random Fact
 
-When I'm not coding, you can find me **stargazing**, **traveling**, or **exploring AI-driven automation ideas**.  
+When I'm not coding, you can find me **stargazing** or **traveling**.  
 
 ---
 
